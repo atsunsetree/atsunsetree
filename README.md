@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&animation=fadeIn&fontAlignY=38)
 
  <div align="center">
 
-  ### Hi I'm Haesol 👋
+  ### Hi I'm Haesol 👋  
    <a href="https://velog.io/@atsunsetree529/series"><img src="https://img.shields.io/badge/Velog-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://github.com/atsunsetree">
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/atsunsetree&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
   ---
@@ -30,11 +30,10 @@
 ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
-<br></br>
----
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=atsunsetree&show_icons=true&theme=dracula&count_private=true" width=48% />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsunsetree&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=5" width=51% />
